@@ -1,0 +1,8 @@
+{
+  "linux-x64-prod": {
+    "update": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-3.5.0/RoasTime-3.5.0.AppImage",
+    "install": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-3.5.0/RoasTime-3.5.0.AppImage",
+    "version": "3.5.0",
+    "sha256": "a287228b43305da8047fd569997d41f8d143f1d13790a34939426b7536971822"
+  }
+}
