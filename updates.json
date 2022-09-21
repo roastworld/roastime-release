@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v3.6.18",
-    "install": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v3.6.18/roastime-main-win-signed.exe",
-    "version": "0.0.0"
+    "update": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.0.2",
+    "install": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.0.2/roastime-main-win-signed.exe",
+    "version": "4.0.2"
   }
 }
