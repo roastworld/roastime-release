@@ -5,7 +5,7 @@
     "version": "4.0.22"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.3.2/latest-mac.yml",
+    "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.3.2/release.json",
     "install": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.3.2/RoasTime-mac-x64.dmg",
     "version": "4.3.2"
   },
