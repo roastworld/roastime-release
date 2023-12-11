@@ -10,8 +10,8 @@
     "version": "4.6.16"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.6.16/RoasTime-4.6.16.AppImage",
-    "install": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.6.16/RoasTime-4.6.16.AppImage",
-    "version": "4.6.16"
+    "update": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.6.21/RoasTime-4.6.21.AppImage",
+    "install": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.6.21/RoasTime-4.6.21.AppImage",
+    "version": "4.6.21"
   }
 }
