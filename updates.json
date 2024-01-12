@@ -5,9 +5,9 @@
     "version": "4.6.21"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.21/release.json",
-    "install": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.21/RoasTime-mac-x64.dmg",
-    "version": "4.6.21"
+    "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.26/release.json",
+    "install": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.26/RoasTime-mac-x64.dmg",
+    "version": "4.6.26"
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.6.21/RoasTime-4.6.21.AppImage",
