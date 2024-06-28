@@ -2,7 +2,7 @@
   "win32-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.6.26",
     "install": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.6.26/roastime-main-win-signed.exe",
-    "version": "4.6.26"
+    "version": "4.6.21"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.26/release.json",
