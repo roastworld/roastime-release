@@ -1,13 +1,13 @@
 {
   "win32-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.6.21",
-    "install": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.9.0/roastime-main-win-signed.exe",
-    "version": "4.9.0"
+    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.10.3%2FRoasTime.exe?alt=media&token=4aa22812-56e6-4977-9a4b-678242ed0127",
+    "version": "4.10.3"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.26/release.json",
-    "install": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.8.0/RoasTime-mac-x64.dmg",
-    "version": "4.8.0"
+    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.10.3%2FRoasTime-mac-x64.dmg?alt=media&token=fec96e3d-04c0-45d3-8a48-28c8c9b0ec35",
+    "version": "4.10.3"
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.8.0/RoasTime-4.8.0.AppImage",
