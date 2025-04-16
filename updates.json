@@ -11,8 +11,8 @@
   },
   "darwin-arm-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.26/release.json",
-    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.6%2FRoasTime-mac-arm64.dmg?alt=media&token=b23e667c-7fc6-4272-8681-9ff60b55d281",
-    "version": "4.11.6"
+    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-mac-arm64.dmg?alt=media&token=e179b2e4-7c53-4de6-aaf4-4cc3792d2770",
+    "version": "4.11.10"
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.8.0/RoasTime-4.8.0.AppImage",
