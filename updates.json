@@ -16,7 +16,7 @@
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/linux-x64-prod-v4.8.0/RoasTime-4.8.0.AppImage",
-    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-4.11.10-arm64.AppImage?alt=media&token=6dff6527-4a96-4bef-9bc4-d15e04dcb466",
+    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-4.11.10.AppImage?alt=media&token=2b847781-299c-4299-9d76-7f3ec78785cb",
     "version": "4.11.10"
   }
 }
