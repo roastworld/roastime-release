@@ -9,7 +9,7 @@
     "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-mac-x64.dmg?alt=media&token=0e472aa6-20ae-4e92-951f-97b120bfdb37",
     "version": "4.11.10"
   },
-  "darwin-arm-prod": {
+  "darwin-arm64-prod": {
     "update": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2Fmac-arm64-release-json%2Frelease.json?alt=media&token=50b8c3af-8344-4d97-883e-3f609f658f72",
     "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-mac-arm64.dmg?alt=media&token=f2275c50-f163-4e8b-abb6-9c158ecaf3fc",
     "version": "4.11.10"
