@@ -15,8 +15,13 @@
     "version": "4.11.10"
   },
   "linux-x64-prod": {
-    "update": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-4.11.10.AppImage?alt=media&token=2b847781-299c-4299-9d76-7f3ec78785cb",
-    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-4.11.10.AppImage?alt=media&token=2b847781-299c-4299-9d76-7f3ec78785cb",
-    "version": "4.11.10"
+    "update": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.13.5%2FRoasTime-4.13.5.AppImage?alt=media&token=eb218b4b-0093-4165-ada6-8fd275422fcb",
+    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.13.5%2FRoasTime-4.13.5.AppImage?alt=media&token=eb218b4b-0093-4165-ada6-8fd275422fcb",
+    "version": "4.13.5"
+  },
+  "linux-arm64-prod": {
+    "update": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.13.5%2FRoasTime-4.13.5-arm64.AppImage?alt=media&token=9c894463-534c-49dd-b9ac-83b00530c0e8",
+    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.13.5%2FRoasTime-4.13.5-arm64.AppImage?alt=media&token=9c894463-534c-49dd-b9ac-83b00530c0e8",
+    "version": "4.13.5"
   }
 }
