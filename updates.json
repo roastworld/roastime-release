@@ -6,7 +6,7 @@
   },
   "win32-arm64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/win-arm64",
-    "install": "https://releases.roast.world/roastime-main/v4.13.6/win-arm64/roastime-main-win-signed.exe",
+    "install": "https://releases.roast.world/roastime-main/v4.13.6/win-arm64/roastime-main-win-signed-1749765532.exe",
     "version": "4.13.6"
   },
   "darwin-x64-prod": {
