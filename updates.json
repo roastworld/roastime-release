@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.6.21",
-    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime-mac-x64.dmg?alt=media&token=0e472aa6-20ae-4e92-951f-97b120bfdb37",
+    "install": "https://firebasestorage.googleapis.com/v0/b/testaillio.appspot.com/o/releases%2Froastime-main%2Fv4.11.10%2FRoasTime.exe?alt=media&token=f0b43b29-7fd4-4713-a8ab-d878d5f6d212",
     "version": "4.11.10"
   },
   "win32-arm64-prod": {
