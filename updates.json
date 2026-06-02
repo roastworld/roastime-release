@@ -21,12 +21,12 @@
   },
   "linux-x64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/RoasTime-4.13.6.AppImage",
-    "install": "https://releases.roast.world/roastime-main/v4.13.6/RoasTime-4.13.6.AppImage",
-    "version": "4.13.6"
+    "install": "https://releases.roast.world/roastime-main/v4.14.1/RoasTime-4.14.1.AppImage",
+    "version": "4.14.1"
   },
   "linux-arm64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/RoasTime-4.13.6-arm64.AppImage",
-    "install": "https://releases.roast.world/roastime-main/v4.13.6/RoasTime-4.13.6-arm64.AppImage",
-    "version": "4.13.6"
+    "install": "https://releases.roast.world/roastime-main/v4.14.1/RoasTime-4.14.1-arm64.AppImage",
+    "version": "4.14.1"
   }
 }
