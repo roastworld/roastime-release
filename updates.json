@@ -11,13 +11,13 @@
   },
   "darwin-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.26/release.json",
-    "install": "https://releases.roast.world/roastime-main/v4.14.1/mac-x64/RoasTime-mac-x64.dmg",
-    "version": "4.14.1"
+    "install": "https://releases.roast.world/roastime-main/v4.13.6/mac-x64/RoasTime-mac-x64.dmg",
+    "version": "4.13.6"
   },
   "darwin-arm64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/mac-arm64/RoasTime-mac-arm64.zip",
-    "install": "https://releases.roast.world/roastime-main/v4.14.1/mac-arm64/RoasTime-mac-arm64.dmg",
-    "version": "4.14.1"
+    "install": "https://releases.roast.world/roastime-main/v4.13.6/mac-arm64/RoasTime-mac-arm64.dmg",
+    "version": "4.13.6"
   },
   "linux-x64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/RoasTime-4.13.6.AppImage",
