@@ -1,32 +1,32 @@
 {
   "win32-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/win32-x64-prod-v4.6.21",
-    "install": "https://releases.roast.world/roastime-main/v4.13.6/win-x64/roastime-main-win-signed-1749693285.exe",
-    "version": "4.13.6"
+    "install": "https://releases.roast.world/roastime-main/v4.14.2-final/win-x64/RoasTime.exe",
+    "version": "4.14.2"
   },
   "win32-arm64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/win-arm64",
-    "install": "https://releases.roast.world/roastime-main/v4.13.6/win-arm64/roastime-main-win-signed-1749765532.exe",
-    "version": "4.13.6"
+    "install": "https://releases.roast.world/roastime-main/v4.14.2-final/win-arm64/RoasTime.exe",
+    "version": "4.14.2"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/roastworld/roastime-release/releases/download/macos-x64-prod-v4.6.26/release.json",
     "install": "https://releases.roast.world/roastime-main/v4.14.2/RoasTime-mac-x64.dmg",
-    "version": "v4.14.2"
+    "version": "4.14.2"
   },
   "darwin-arm64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/mac-arm64/RoasTime-mac-arm64.zip",
     "install": "https://releases.roast.world/roastime-main/v4.14.2/RoasTime-mac-arm64.dmg",
-    "version": "v4.14.2"
+    "version": "4.14.2"
   },
   "linux-x64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/RoasTime-4.13.6.AppImage",
-    "install": "https://releases.roast.world/roastime-main/v4.14.1/RoasTime-4.14.1.AppImage",
-    "version": "4.14.1"
+    "install": "https://releases.roast.world/roastime-main/v4.14.2/RoasTime-4.14.2.AppImage",
+    "version": "4.14.2"
   },
   "linux-arm64-prod": {
     "update": "https://releases.roast.world/roastime-main/v4.13.6/RoasTime-4.13.6-arm64.AppImage",
-    "install": "https://releases.roast.world/roastime-main/v4.14.1/RoasTime-4.14.1-arm64.AppImage",
-    "version": "4.14.1"
+    "install": "https://releases.roast.world/roastime-main/v4.14.2/RoasTime-4.14.2-arm64.AppImage",
+    "version": "4.14.2"
   }
 }
